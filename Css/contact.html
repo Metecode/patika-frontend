@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teknoloji Dukkanim</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navbar -> start -->
+    <header>
+        <nav>
+            <ul id="navbar">
+                <li class="nav"><a href="anasayfa.html">Ana Sayfa</a></li>
+                <li class="nav"><a href="urunler.html">Urunlerim</a></li>
+                <li class="nav"><a href="contact.html">Iletisim</a></li>
+                <li class="nav" style="float:right"><a class="active" href="about-us.html">Hakkimizda</a></li>
+            </ul>
+        </nav>
+    </header>
+    <!-- Navbar -> end -->
+    <!-- content -> start -->
+    <section>
+        <article>
+            <h1 style="color: #FFC900;">Iletisim</h1>
+            <div class="wrapper">
+                <form class="form">
+                  <div class="pageTitle title">Iletisim </div>
+                  <div class="secondaryTitle title">
+                      <p>İletişim Adresleri</p>
+                      <p>Bize aşağıdaki kanallardan da ulaşabilirsiniz</p>
+                      <p>Hasanpaşa Mah. Lavanta SK. Etap İş Merkezi D Blok NO: 22 B1 Kadıköy/İstanbul</p>
+                      <a href="tel:+0850 259 26 96">0850 259 26 96</a> <br>
+                      <a href="mailto:info@itopya.com">info@itopya.com</a>
+                  </div>
+                  <input type="text" class="name formEntry" placeholder="Name" />
+                  <input type="text" class="email formEntry" placeholder="Email"/>
+                  <textarea class="message formEntry" placeholder="Message"></textarea>
+                  <input type="checkbox" class="termsConditions" value="Term">
+                  <label style="color: grey" for="terms"> I Accept the <span style="color: #0e3721">Terms of Use</span> & <span style="color: #0e3721">Privacy Policy</span>.</label><br>
+                  <button class="submit formEntry" onclick="thanks()">Submit</button>
+                </form>
+              </div>
+        </article>
+    </section>
+    <!-- content -> end -->
+</body>
+</html>
