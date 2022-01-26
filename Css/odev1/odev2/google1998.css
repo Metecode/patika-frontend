@@ -1,0 +1,64 @@
+.google-png{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+/* search */
+.search{
+    display: block;
+    margin:  auto ;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    background-color: #EEEEEE;
+}
+#search-up{
+    margin-bottom: 0px;
+}
+/* search */
+
+/* FOOTER */
+.footer1{
+    display: block;
+    margin:  auto ;
+    margin-left: 50px;
+    margin-right: 1px;
+    text-align: center;
+    width: 37%;
+    height: 80px;
+    float: left;
+    background-color: rgb(126, 229, 218);
+    
+}
+.footer2{
+    margin:  auto ;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+    width: 16%;
+    height: 75px;
+    float: left;
+    background-color: #70CCC2;
+    padding-bottom: 5px;
+}
+.footer3{
+    margin:  auto ;
+    margin-left: 1px;
+    text-align: center;
+    width: 41.68%;
+    height: 80px;
+    float: left;
+    background-color: #62B3AA;
+}
+p{
+    margin-bottom: 0%;
+}
+footer{
+    margin-top: 2px;
+}
+#COPY{
+    text-align: center;
+    font-size: small;
+}
+
+/* FOOTER */
