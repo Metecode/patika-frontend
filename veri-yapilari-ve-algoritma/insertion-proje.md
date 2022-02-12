@@ -1,4 +1,4 @@
-#Insertion-Sort-Projesi
+# Insertion-Sort-Projesi
 
 **Big-O gosterimi :** O(N^2)
 **18 icin Time Complexity :** Average case
@@ -18,7 +18,7 @@
 - [2,3,4,5,7,8,9,15,6]
 - [2,3,4,5,6,7,8,9,15]
 
-#Merge-Sort-Projesi
+# Merge-Sort-Projesi
 
 **Big-O gosterimi :** O(n*logn) 
 - [16,21,11,8,12,22] 
@@ -29,7 +29,7 @@
 - [11,16,21] [8,12,22]
 - [8,11,12,16,21,22]
 
-#Binary-Search-Tree-Projesi
+# Binary-Search-Tree-Projesi
 
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] 
 
